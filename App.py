@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     social_media_links = {
-        'Twitter': 'https://twitter.com/YourTwitterHandle',
+        'INSTAGRAM': 'https://instagram.com/adi.eth18?igshid=MWRmOGVxcWM5Y3h2cw==',
         'LinkedIn': 'https://www.linkedin.com/in/your-linkedin-profile',
         # Add more social media links as needed
     }
